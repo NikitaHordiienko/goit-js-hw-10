@@ -18,3 +18,26 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country-list {
+  list-style: none;
+}
+
+.flag-img {
+  margin-right: 20px;
+}
+
+.country-list__item {
+  display: flex;
+  align-items: center;
+}
+
+.country-info {
+  padding-left: 40px;
+}
+
+.country-info__thumb {
+  display: flex;
+  align-items: center;
+}
+
